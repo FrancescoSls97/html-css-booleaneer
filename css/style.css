@@ -5,9 +5,15 @@
     box-sizing: border-box;
 }
 
-.logo
+.bg-image
 {
     background-color: #4EA0FF;
+    background-size: 300px;
     background-image: url(/img/pattern.png);
 }
 
+.booleaneer-logo
+{
+    height: 50px;
+    margin-top: 70px;
+}
