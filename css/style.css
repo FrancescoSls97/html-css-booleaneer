@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+/* general rules */
+
 .bg-image
 {
     background-color: #4EA0FF;
@@ -16,4 +18,25 @@
 {
     height: 50px;
     margin-top: 70px;
+}
+
+.grey-text 
+{
+    color: grey;
+}
+
+.skyblue-text
+{
+    color: #4EA0FF;
+}
+
+.bg-yellow
+{
+    background-color: #FFFF00;
+}
+
+article
+{
+    margin-top: 50px;
+    margin bottom: 50px;
 }
