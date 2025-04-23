@@ -1,11 +1,10 @@
-/* css rese */
+/* css reset */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* general rules */
 
 .bg-image
 {
@@ -37,12 +36,31 @@
 
 article
 {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 ul
 {
     list-style: outside;
     margin-left: 20px;
+}
+
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tablehead
+{
+    background-color: #20A9E5;
+    color: #ffffff;
+}
+
+.skybg
+{
+    background-color: #B1E5F2;
 }
